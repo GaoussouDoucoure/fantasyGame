@@ -1,0 +1,4 @@
+Fire Sword|100|STRENGTH|10
+Ice Shield|100|DEXTERITY|10
+Standard Sword|50|STRENGTH|5
+Leather Shield|50|DEXTERITY|5
